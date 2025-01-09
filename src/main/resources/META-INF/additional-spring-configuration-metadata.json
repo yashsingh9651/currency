@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "exchange.api.url",
+    "type": "java.lang.String",
+    "description": "A description for 'exchange.api.url'"
+  },
+  {
+    "name": "exchange.api.key",
+    "type": "java.lang.String",
+    "description": "A description for 'exchange.api.key'"
+  },
+  {
+    "name": "exchange.api.defaultcurrency",
+    "type": "java.lang.String",
+    "description": "A description for 'exchange.api.defaultcurrency'"
+  }
+]}
